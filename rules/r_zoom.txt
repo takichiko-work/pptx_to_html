@@ -1,0 +1,31 @@
+- ズーム：
+  <figure class="l-img">
+    <a href="images/under/{output_filename}_img{連番}.jpg" data-fancybox="parking" data-caption="" class="zoom-img">
+      <img src="images/under/{output_filename}_img{連番}.jpg" width="800" height="590" alt="">
+    </a>
+  </figure>
+
+  - パーツ名に「ズーム」が含まれる場合のみ、この形式を使用する
+  - パーツ名に「ズーム」が含まれない場合は、通常の画像タグを使用する：
+    <figure class="l-img"><img src="images/under/{output_filename}_img{連番}.jpg" width="800" height="590" alt=""></figure>
+
+  - 他のパーツ（l-imgR等）の一部として使用される場合：
+    - パーツ名に「ズーム」が含まれる場合のみ、ズーム用の<figure class="l-img">を使用する
+    - パーツ名に「ズーム」が含まれない場合は、通常の<figure class="l-img">を使用する
+
+    例：
+    通常の画像（ズームなし）：
+    <div class="l-imgR">
+      <figure class="l-img"><img src="images/under/{output_filename}_img{連番}.jpg" width="800" height="590" alt=""></figure>
+      <div class="l-desc">テキスト</div>
+    </div>
+
+    ズーム使用時：
+    <div class="l-imgR">
+      <figure class="l-img">
+        <a href="images/under/{output_filename}_img{連番}.jpg" data-fancybox="parking" data-caption="" class="zoom-img">
+          <img src="images/under/{output_filename}_img{連番}.jpg" width="800" height="590" alt="">
+        </a>
+      </figure>
+      <div class="l-desc">テキスト</div>
+    </div>

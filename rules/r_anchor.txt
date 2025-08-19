@@ -1,0 +1,9 @@
+- アンカーリンク：<ul class="list-anchor-link">で囲み、各リンクを<li>で囲む
+  例：
+  <ul class="list-anchor-link">
+    <li><a href="#link01">ケアマネージャーの方はこちら</a></li>
+  </ul>
+
+  - 要素が増えると、liを増やす。
+  - 各リンクは<a href="#{アンカー名}">リンクテキスト</a>の形式で記述する。
+  - アンカー名は「link01」「link02」「link03」のように、「link」＋2桁の数字の形式で、数字は連番とする。

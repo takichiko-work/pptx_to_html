@@ -1,0 +1,15 @@
+- フロー：<ol class="flow-style">で囲み、複数の<li>要素を含める
+  <ol class="flow-style">
+    <li>
+      <h2〜h6 class="num-ttl"><span class="num">STEP1</span>タイトル</h2〜h6>
+      <div class="wrap">
+        <figure class="flow-img"><img src="images/under/{output_filename}_img{連番}.jpg" width="800" height="590" alt=""></figure>
+        <div class="flow-desc">
+          テキスト
+        </div>
+      </div>
+    </li>
+  </ol>
+  - <span class="num">の値は「STEP1」「step01」「flow01」などの形式（英単語+数字）
+  - 2個目以降の<li>では、数字部分が連番になる（STEP2、STEP3...）
+  - 画像がない場合は、<div class="wrap">とその中の要素を省略し、テキストを直接<p>タグで囲む

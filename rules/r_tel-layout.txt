@@ -1,0 +1,10 @@
+- お問い合わせボックス：
+  <div class="tel-layout">
+    <h2 class="l-ttl">タイトル</h2>
+    <p class="tac"><a href="tel:電話番号リンク" class="l-tel"><img src="images/share/icon_tel.svg" alt="TEL" width="25" height="31">電話番号</a></p>
+    <p>テキスト</p>
+  </div>
+
+  - タイトルは必須
+  - 電話番号リンクは必須（tel:から始まり、ハイフンなしの数字のみ）
+  - テキストは任意

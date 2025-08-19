@@ -1,0 +1,12 @@
+- カード：<article class="item">...</article> で、タイトルを必須とし、画像・説明文は任意
+  - カードは<div class="list-card01 {cols}">で囲む。{cols}は中の<article>の1行あたりの最大横並び数で決定し、2つならcol2、3つならcol3とする。6つの場合、3列2段ならcol3、2列3段ならcol2とする。行数ではなく横並びの数で判定する。
+  - 要素の順番は柔軟（画像→タイトル→説明文、タイトル→画像→説明文など）
+  例：
+    <div class="list-card01 col2">
+      <article class="item">
+        <figure class="l-img"><img src="images/under/{output_filename}_img{連番}.jpg" width="800" height="590" alt=""></figure>
+        <span class="num">01</span>
+        <h2〜h6 class="l-ttl">当院の提携駐車場</h2〜h6>
+        <p>無料でご利用いただける提携駐車場があります。（1台分）<br>コメダ珈琲唐木田店の手前、「中田駐車場」の看板が目印です。場の真ん中あたり、「横田歯科クリニック」のプレートがある駐車スペースをご利用ください。</p>
+      </article>
+    </div>

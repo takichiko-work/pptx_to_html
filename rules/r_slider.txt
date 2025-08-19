@@ -1,0 +1,59 @@
+- スライダー：
+  <div class="under-slider01">
+    <div class="splide">
+      <div class="splide-wrapper">
+        <div class="splide__arrows">
+          <button class="splide__arrow splide__arrow--prev"></button>
+          <button class="splide__arrow splide__arrow--next"></button>
+        </div>
+        <div class="splide__track">
+          <div class="splide__list">
+            <div class="splide__slide">
+              <figure class="item-img"><img src="images/under/{output_filename}_img{連番}.jpg" width="800" height="590" alt=""></figure>
+              <div class="item-desc">
+                <h3 class="item-ttl">テキスト</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  - パーツ名は「スライダー 3枚」のように、「スライダー」と枚数が記載されている
+  - 枚数に応じて <div class="splide__slide"> のブロックを増やす
+  - 各スライドは以下の構造を持つ：
+    <div class="splide__slide">
+      <figure class="item-img"><img src="images/under/{output_filename}_img{連番}.jpg" width="800" height="590" alt=""></figure>
+      <div class="item-desc">
+        <h3 class="item-ttl">テキスト</h3>
+      </div>
+    </div>
+
+  例：2枚の場合
+  <div class="under-slider01">
+    <div class="splide">
+      <div class="splide-wrapper">
+        <div class="splide__arrows">
+          <button class="splide__arrow splide__arrow--prev"></button>
+          <button class="splide__arrow splide__arrow--next"></button>
+        </div>
+        <div class="splide__track">
+          <div class="splide__list">
+            <div class="splide__slide">
+              <figure class="item-img"><img src="images/under/{output_filename}_img01.jpg" width="800" height="590" alt=""></figure>
+              <div class="item-desc">
+                <h3 class="item-ttl">テキスト1</h3>
+              </div>
+            </div>
+            <div class="splide__slide">
+              <figure class="item-img"><img src="images/under/{output_filename}_img02.jpg" width="800" height="590" alt=""></figure>
+              <div class="item-desc">
+                <h3 class="item-ttl">テキスト2</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,13 @@
+- スタッフ紹介：画像・肩書き・名前・説明文を含める
+  <div class="staff-layout">
+    <figure class="l-img"><img src="images/under/{output_filename}_img{連番}.jpg" width="800" height="590" alt=""></figure>
+    <div class="l-desc">
+      <p class="l-job">肩書き</p>
+      <h2〜h6 class="l-name">名前</h2〜h6>
+      説明文
+    </div>
+  </div>
+
+  - 名前の表示形式：
+    - 日本語表記のみの場合は <h2〜h6 class="l-name"> を使用
+    - 英語表記がある場合は <hgroup class="l-name"><h2〜h6 class="jp">日本語名</h2〜h6><p lang="en">英語名</p></hgroup> の形式を使用

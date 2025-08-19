@@ -1,0 +1,8 @@
+- l-imgR：<div class="l-imgR">...</div> で、画像とテキストを横並びにする。
+  <div class="l-imgR">
+    <figure class="l-img"><img src="images/under/{output_filename}_img{連番}.jpg" width="800" height="590" alt=""></figure>
+    <div class="l-desc">
+      <!-- テキストのみとは限らず、p、table、dlなども入る -->
+      テキスト
+    </div>
+  </div>

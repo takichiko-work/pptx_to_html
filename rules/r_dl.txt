@@ -1,0 +1,32 @@
+- 定義：<dl class="dl-style01">で囲み、dtとddのペアを含める
+  <dl class="dl-style01">
+    <dt>テキスト</dt>
+    <dd>テキスト</dd>
+  </dl>
+
+  - dtとddは必ずペアで存在する必要がある
+    - dt一つにつきddは一つ
+    - dtのみ、ddのみの状態は不可
+    - ddはdtの説明や補足となる
+    - 誤り例：
+      <dl class="dl-style01">
+        <dt>用語</dt>
+      </dl>
+    - 正しい例：
+      <dl class="dl-style01">
+        <dt>用語</dt>
+        <dd>定義</dd>
+      </dl>
+
+  - dt、ddのペアが複数ある場合は、同じdl内で繰り返す
+  - dd内ではドットリストを使用可能
+    例：
+    <dl class="dl-style01">
+      <dt>所属学術団体（学会）</dt>
+      <dd>
+        <ul class="list-disc">
+          <li>日本東洋医学会</li>
+          <li>日本老年薬学会（老年薬学認定薬剤師）</li>
+        </ul>
+      </dd>
+    </dl>

@@ -1,0 +1,44 @@
+- テーブル：<table class="table-style01">で囲み、colgroup、tbody、tr、th、tdを含める
+  - ヘッダーが行方向（左側）のテーブル：
+  <table class="table-style01">
+    <colgroup>
+      <col style="width: 30%">
+      <col style="width: 70%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <th scope="row">見出し</th>
+        <td>内容</td>
+      </tr>
+      <tr>
+        <th scope="row">見出し2</th>
+        <td>内容2</td>
+      </tr>
+    </tbody>
+  </table>
+  - 複数の行がある場合は<tr>を繰り返す
+  - th要素には必ずscope="row"を指定する
+
+  - ヘッダーが列方向（上側）のテーブル：
+  <table class="table-style01">
+    <colgroup>
+      <col style="width:16%">
+      <col style="width:12%">
+      <col style="width:12%">
+    </colgroup>
+    <tbody>
+      <tr>
+        <th scope="col" class="tac">2024年12月<br>空席状況</th>
+        <th scope="col" class="tac">月</th>
+        <th scope="col" class="tac">火</th>
+      </tr>
+      <tr>
+        <th scope="row" class="bg01">1日利用<br>9:30 – 15:00</th>
+        <td>満員</td>
+        <td>○</td>
+      </tr>
+    </tbody>
+  </table>
+  - 1行目（ヘッダー行）のth要素にはscope="col"を指定する
+  - 2行目以降のth要素にはscope="row"を指定する
+  - 列幅はcolgroupのcol要素で指定する

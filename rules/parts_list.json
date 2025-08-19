@@ -1,0 +1,80 @@
+{
+  "parts": [
+    {
+      "parts_name": "u-h2",
+      "file_name": "r_h2.txt"
+    },
+    {
+      "parts_name": "u-h3",
+      "file_name": "r_h3.txt"
+    },
+    {
+      "parts_name": "ドットリスト",
+      "file_name": "r_dotlist.txt"
+    },
+    {
+      "parts_name": "定義",
+      "file_name": "r_dl.txt"
+    },
+    {
+      "parts_name": "テーブル",
+      "file_name": "r_table.txt"
+    },
+    {
+      "parts_name": "フロー",
+      "file_name": "r_flow.txt"
+    },
+    {
+      "parts_name": "ボックス",
+      "file_name": "r_box.txt"
+    },
+    {
+      "parts_name": "カード",
+      "file_name": "r_card.txt"
+    },
+    {
+      "parts_name": "l-imgR",
+      "file_name": "r_imgr.txt"
+    },
+    {
+      "parts_name": "l-imgL",
+      "file_name": "r_imgl.txt"
+    },
+    {
+      "parts_name": "タイムテーブル",
+      "file_name": "r_time-table.txt"
+    },
+    {
+      "parts_name": "マップ",
+      "file_name": "r_map.txt"
+    },
+    {
+      "parts_name": "スライダー",
+      "file_name": "r_slider.txt"
+    },
+    {
+      "parts_name": "ズーム",
+      "file_name": "r_zoom.txt"
+    },
+    {
+      "parts_name": "レイアウト1",
+      "file_name": "r_l-layout1.txt"
+    },
+    {
+      "parts_name": "レイアウト1　逆",
+      "file_name": "r_l-layout1_reverse.txt"
+    },
+    {
+      "parts_name": "お問い合わせボックス",
+      "file_name": "r_tel-layout.txt"
+    },
+    {
+      "parts_name": "スタッフ紹介",
+      "file_name": "r_staff.txt"
+    },
+    {
+      "parts_name": "アンカーリンク",
+      "file_name": "r_anchor.txt"
+    }
+  ]
+}

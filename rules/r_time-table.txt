@@ -1,0 +1,50 @@
+- タイムテーブル：
+  - 以下のHTMLをそのまま出力する
+
+  【出力するHTML】
+  <div class="time-table large mbS">
+    <div class="time-table-head">
+      <div class="item">診療時間</div>
+      <div class="item">月</div>
+      <div class="item">火</div>
+      <div class="item">水</div>
+      <div class="item">木</div>
+      <div class="item">金</div>
+      <div class="item">土</div>
+      <div class="item">日</div>
+    </div>
+    <div class="time-table-body">
+      <div class="item">9:00～<br class="sp-only">12:00</div>
+      <div class="item open">●</div>
+      <div class="item open">●</div>
+      <div class="item open">●</div>
+      <div class="item open">●</div>
+      <div class="item open">●</div>
+      <div class="item open">●</div>
+      <div class="item">休</div>
+    </div>
+    <div class="time-table-body">
+      <div class="item">13:00～<br class="sp-only">15:00</div>
+      <div class="item">休</div>
+      <div class="item txt01">往診</div>
+      <div class="item txt01">往診</div>
+      <div class="item txt01">往診</div>
+      <div class="item txt01">往診</div>
+      <div class="item open">●</div>
+      <div class="item">休</div>
+    </div>
+    <div class="time-table-body last-colum">
+      <div class="item">15:00～<br class="sp-only">20:00</div>
+      <div class="item">休</div>
+      <div class="item open">●</div>
+      <div class="item">休</div>
+      <div class="item open">●</div>
+      <div class="item open">●</div>
+      <div class="item txt02">15:00<br>|<br>18:00</div>
+      <div class="item">休</div>
+    </div>
+  </div>
+  - 説明文は<p class="time-table-txt">で囲む
+    例：
+    <p class="time-table-txt">※祝祭日も上記の通り開院しております。<br>
+    ※初診の方は、ご予約をおすすめします。</p>
