@@ -13,10 +13,10 @@ def main():
     # === 設定ここから ===
     pptx_path = find_pptx_file("input")
     template_path = "template/template.html"
-    output_filename = "acupuncture"  # 拡張子なし
-    page_title = "鍼灸治療"  # ページタイトルを設定
-    start_slide = 14
-    end_slide = 16
+    output_filename = "price"  # 拡張子なし
+    page_title = "施術料金"  # ページタイトルを設定
+    start_slide = 27
+    end_slide = 27
     # === 設定ここまで ===
 
     if not pptx_path:

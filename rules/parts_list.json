@@ -13,6 +13,10 @@
       "file_name": "r_dotlist.txt"
     },
     {
+      "parts_name": "数字リスト",
+      "file_name": "r_numlist.txt"
+    },
+    {
       "parts_name": "定義",
       "file_name": "r_dl.txt"
     },
@@ -75,6 +79,10 @@
     {
       "parts_name": "アンカーリンク",
       "file_name": "r_anchor.txt"
+    },
+    {
+      "parts_name": "ボタン",
+      "file_name": "r_button.txt"
     }
   ]
 }

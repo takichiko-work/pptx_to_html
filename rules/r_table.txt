@@ -42,3 +42,7 @@
   - 1行目（ヘッダー行）のth要素にはscope="col"を指定する
   - 2行目以降のth要素にはscope="row"を指定する
   - 列幅はcolgroupのcol要素で指定する
+  - **thが2行以上ある場合もある**
+  - **colspan、rowspanを使用してセルを結合する場合がある**
+    - colspan：列方向のセル結合（例：colspan="2"で2列分結合）
+    - rowspan：行方向のセル結合（例：rowspan="2"で2行分結合）

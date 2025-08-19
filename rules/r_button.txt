@@ -1,0 +1,2 @@
+- ボタン：<a href="" class="btn-more">テキスト</a> で、リンクボタンを表示する。
+  <a href="" class="btn-more">テキスト</a>

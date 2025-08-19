@@ -1,191 +1,47 @@
 === シェイプ情報デバッグ ===
 
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 0, 'top': 2294707, 'width': 13733463, 'height': 8712968, 'text': ''}
-テキストフレームはあるが空文字列
 シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1, 'top': -9439, 'width': 13733464, 'height': 608274, 'text': 'ヘッダー'}
 テキストとして処理: ヘッダー
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': -1587, 'top': 608940, 'width': 13735050, 'height': 800282, 'text': '鍼灸治療'}
-テキストとして処理: 鍼灸治療
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': -1587, 'top': 608940, 'width': 13735050, 'height': 800282, 'text': '施術料金'}
+テキストとして処理: 施術料金
 シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 450225, 'top': 1430381, 'width': 9368463, 'height': 343427, 'text': 'HOME\u3000＞\u3000ページタイトル'}
 テキストとして処理: HOME　＞　ページタイトル
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 6893627, 'top': 4149634, 'width': 6489849, 'height': 4031198, 'text': '写真'}
-画像プレースホルダーとして処理: 写真
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1440561, 'top': 5551122, 'width': 4988084, 'height': 1747017, 'text': '局所の痛みだけでなく、全身を見据えた鍼灸治療を行います。痛みのある部位に限定せず、身体全体を診て施術を行うことで鍼灸の効果を最大限引き出すので、自然治癒力を高め再発リスクの減少が期待できるからです。\n\n東洋医学の理論に基づいた全身治療により、患者様ご自身が気付いていない体の歪みや不調の改善を目指していきます。'}
-テキストとして処理: 局所の痛みだけでなく、全身を見据えた鍼灸治療を行います。痛みのある部位に限定せず、身体全体を診て施術を行うことで鍼灸の効果を最大限引き出すので、自然治癒力を高め再発リスクの減少が期待できるからです。
-
-東洋医学の理論に基づいた全身治療により、患者様ご自身が気付いていない体の歪みや不調の改善を目指していきます。
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1440561, 'top': 4319655, 'width': 5135160, 'height': 984885, 'text': '東洋医学的理論に基づいた全身治療で\n効果を最大限に引き出します。'}
-テキストとして処理: 東洋医学的理論に基づいた全身治療で
-効果を最大限に引き出します。
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1456988, 'top': 8701731, 'width': 10794086, 'height': 1546147, 'text': ''}
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1545293, 'top': 2366715, 'width': 10721320, 'height': 704817, 'text': ''}
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3002294, 'top': 3470969, 'width': 10794982, 'height': 487313, 'text': '通常治療料金'}
+テキストとして処理: 通常治療料金
+シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 3011688, 'top': 4175786, 'width': 396252, 'height': 0, 'text': ''}
+未対応のシェイプタイプ: LINE (9)
+シェイプ情報: {'shape_type': 'TABLE (19)', 'has_text_frame': False, 'left': 1484219, 'top': 4094907, 'width': 10810057, 'height': 1486629, 'text': ''}
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1428818, 'top': 3364965, 'width': 10263226, 'height': 339195, 'text': '当院の治療料金は治療内容により以下の通りです。'}
+テキストとして処理: 当院の治療料金は治療内容により以下の通りです。
+シェイプ情報: {'shape_type': 'TABLE (19)', 'has_text_frame': False, 'left': 1484219, 'top': 5913547, 'width': 10810057, 'height': 1486629, 'text': ''}
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1428818, 'top': 7464525, 'width': 10263226, 'height': 919675, 'text': '※通常冶療料金は、 中学生以下5割引、 高校生・専門学校生・大学生の方は在学中に限り3割引となります。\n （大学院生・在職学生は除きます）。 ただし、 小児はり、 美容鍼、 初検料の割弓lはありません。）\n※特殊錬治療、 パイオネックス（貼付する鍼）等は別途料金がかかります。'}
+テキストとして処理: ※通常冶療料金は、 中学生以下5割引、 高校生・専門学校生・大学生の方は在学中に限り3割引となります。
+ （大学院生・在職学生は除きます）。 ただし、 小児はり、 美容鍼、 初検料の割弓lはありません。）
+※特殊錬治療、 パイオネックス（貼付する鍼）等は別途料金がかかります。
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1485876, 'top': 9222198, 'width': 10794086, 'height': 4536504, 'text': ''}
 テキストフレームはあるが空文字列
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1811798, 'top': 8995248, 'width': 10066605, 'height': 295466, 'text': 'そもそも鍼灸とは？'}
-テキストとして処理: そもそも鍼灸とは？
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1799098, 'top': 9316603, 'width': 9884119, 'height': 614977, 'text': '鍼灸は一般に｢はり・きゅう｣または｢しんきゅう｣と呼ばれ、疾患や症状に適した経穴(ツボ)に金属の細い針を刺入したり艾(もぐさ)を置いて燃焼させたりなど、生体に刺激を加えることで元々身体に備わっている病気を治す力を高めて元気にする治療法です。'}
-テキストとして処理: 鍼灸は一般に｢はり・きゅう｣または｢しんきゅう｣と呼ばれ、疾患や症状に適した経穴(ツボ)に金属の細い針を刺入したり艾(もぐさ)を置いて燃焼させたりなど、生体に刺激を加えることで元々身体に備わっている病気を治す力を高めて元気にする治療法です。
-シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1545293, 'top': 3014787, 'width': 10721320, 'height': 704817, 'text': ''}
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3002294, 'top': 4119041, 'width': 10794982, 'height': 553998, 'text': '当院の鍼灸治療について'}
-テキストとして処理: 当院の鍼灸治療について
-シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 3011688, 'top': 4823858, 'width': 396252, 'height': 0, 'text': ''}
-未対応のシェイプタイプ: LINE (9)
-シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1545293, 'top': 12034536, 'width': 10721320, 'height': 704817, 'text': ''}
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3002294, 'top': 13138790, 'width': 10794982, 'height': 553998, 'text': '当院が提供する鍼灸治療の特長'}
-テキストとして処理: 当院が提供する鍼灸治療の特長
-シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 3011688, 'top': 13843607, 'width': 396252, 'height': 0, 'text': ''}
-未対応のシェイプタイプ: LINE (9)
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 6926650, 'top': 13737716, 'width': 6489849, 'height': 4031198, 'text': '写真'}
-画像プレースホルダーとして処理: 写真
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1467013, 'top': 15074782, 'width': 4988084, 'height': 1747017, 'text': '患者さまに安心して治療を受けていただけるよう、一度使用した鍼は再利用せず、すべて使い捨てのものを採用しております。\n\n当院で使用する鍼は細く、柔軟性があり、施術時の痛みを最小限に抑えるよう設計されています。特に鍼灸治療が初めての方や、痛みに敏感な方にも配慮した安全で快適な治療環境を提供し、衛生管理の徹底に努めています。'}
-テキストとして処理: 患者さまに安心して治療を受けていただけるよう、一度使用した鍼は再利用せず、すべて使い捨てのものを採用しております。
-
-当院で使用する鍼は細く、柔軟性があり、施術時の痛みを最小限に抑えるよう設計されています。特に鍼灸治療が初めての方や、痛みに敏感な方にも配慮した安全で快適な治療環境を提供し、衛生管理の徹底に努めています。
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1473584, 'top': 13866539, 'width': 5135160, 'height': 933204, 'text': '上質な医療用の\nディスポーザブル鍼のみを使用します'}
-テキストとして処理: 上質な医療用の
-ディスポーザブル鍼のみを使用します
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1, 'top': 2926712, 'width': 1226301, 'height': 580490, 'text': 'u-h2'}
-テキストとして処理: u-h2
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 0, 'top': 4136124, 'width': 1408019, 'height': 1042525, 'text': 'レイアウト1\u3000逆'}
-テキストとして処理: レイアウト1　逆
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 0, 'top': 8598433, 'width': 1663255, 'height': 580490, 'text': 'ボックス'}
-テキストとして処理: ボックス
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 58995, 'top': 11939405, 'width': 1226301, 'height': 580490, 'text': 'u-h2'}
-テキストとして処理: u-h2
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 58994, 'top': 13148817, 'width': 1408019, 'height': 1042525, 'text': 'レイアウト1\u3000逆'}
-テキストとして処理: レイアウト1　逆
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1485876, 'top': 11083071, 'width': 10794086, 'height': 3782841, 'text': ''}
-テキストフレームはあるが空文字列
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 6926650, 'top': 278483, 'width': 6489849, 'height': 4031198, 'text': ''}
-テキストフレームはあるが空文字列
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1467013, 'top': 1615549, 'width': 4988084, 'height': 1747017, 'text': '灸による温熱刺激は穏やかな刺激ながら、正確な診断に基づいて適切なツボや経絡に施すことで、効果的な治療が期待できます。\n\nどこに温熱刺激を行うか、どのツボに適切に刺激を加えるかは事前の丁寧な問診とツボの把握が重要です。当院ではこれらを意識し、患身様の体の深部から温めることを意識しています。'}
-テキストとして処理: 灸による温熱刺激は穏やかな刺激ながら、正確な診断に基づいて適切なツボや経絡に施すことで、効果的な治療が期待できます。
-
-どこに温熱刺激を行うか、どのツボに適切に刺激を加えるかは事前の丁寧な問診とツボの把握が重要です。当院ではこれらを意識し、患身様の体の深部から温めることを意識しています。
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1473584, 'top': 407306, 'width': 5135160, 'height': 984885, 'text': '適切なツボ・経絡を把握し、\n深部から温める灸治療です。'}
-テキストとして処理: 適切なツボ・経絡を把握し、
-深部から温める灸治療です。
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 6926650, 'top': 4698083, 'width': 6489849, 'height': 4031198, 'text': '写真'}
-画像プレースホルダーとして処理: 写真
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1467013, 'top': 6035149, 'width': 4988084, 'height': 2298578, 'text': '当院では、患者さま一人ひとりの症状や体調に合わせて、使用する鍼を適切に使い分けています。鍼の太さや長さ、素材などは多岐にわたり、疾患の状態や治療の目的に応じて選定します。\n\n例えば、敏感な部分や初めて鍼治療を受ける方には、細くて刺激の少ない鍼を使用し、慢性的な痛みや深部の治療が必要な場合には、やや太めで長さのある鍼を用いることがあります。こうした柔軟な対応により、効果的な治療を提供し、患者さまにとって最も快適で安心できる治療環境を整えています。'}
-テキストとして処理: 当院では、患者さま一人ひとりの症状や体調に合わせて、使用する鍼を適切に使い分けています。鍼の太さや長さ、素材などは多岐にわたり、疾患の状態や治療の目的に応じて選定します。
-
-例えば、敏感な部分や初めて鍼治療を受ける方には、細くて刺激の少ない鍼を使用し、慢性的な痛みや深部の治療が必要な場合には、やや太めで長さのある鍼を用いることがあります。こうした柔軟な対応により、効果的な治療を提供し、患者さまにとって最も快適で安心できる治療環境を整えています。
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1473584, 'top': 4826906, 'width': 5135160, 'height': 933204, 'text': '患者様や疾患に合わせて\n使用する鍼を使い分けます。'}
-テキストとして処理: 患者様や疾患に合わせて
-使用する鍼を使い分けます。
-シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1545293, 'top': 9867052, 'width': 10721320, 'height': 704817, 'text': ''}
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3002294, 'top': 10971306, 'width': 10794982, 'height': 487313, 'text': '施術メニュー'}
-テキストとして処理: 施術メニュー
-シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 3011688, 'top': 11676123, 'width': 396252, 'height': 0, 'text': ''}
-未対応のシェイプタイプ: LINE (9)
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1948171, 'top': 12590810, 'width': 6398647, 'height': 1169616, 'text': '鍼灸治療は、東洋医学の理論に基づき、体内の「気」の流れを整え、自然治癒力を高める施術です。経絡やツボに鍼やお灸を用いて、肩こり、腰痛、神経痛、冷え性、内臓の不調など、さまざまな症状の改善に効果を発揮します。慢性の痛みや疲労感を抱えている方におすすめの治療法で、心身のバランスを整えることで、体全体の健康をサポートします。'}
-テキストとして処理: 鍼灸治療は、東洋医学の理論に基づき、体内の「気」の流れを整え、自然治癒力を高める施術です。経絡やツボに鍼やお灸を用いて、肩こり、腰痛、神経痛、冷え性、内臓の不調など、さまざまな症状の改善に効果を発揮します。慢性の痛みや疲労感を抱えている方におすすめの治療法で、心身のバランスを整えることで、体全体の健康をサポートします。
-シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1948171, 'top': 11801821, 'width': 6502736, 'height': 506177, 'text': ''}
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3405171, 'top': 13846409, 'width': 10838179, 'height': 391818, 'text': '鍼灸治療'}
-テキストとして処理: 鍼灸治療
-シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 3360260, 'top': 14372892, 'width': 11503314, 'height': 0, 'text': ''}
-シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 4772349, 'top': 16943963, 'width': 479465, 'height': 0, 'text': ''}
-未対応のシェイプタイプ: LINE (9)
-シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 5235607, 'top': 16943963, 'width': 11040056, 'height': 0, 'text': ''}
-未対応のシェイプタイプ: LINE (9)
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1485876, 'top': 15274071, 'width': 10794086, 'height': 3782841, 'text': ''}
-テキストフレームはあるが空文字列
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1948171, 'top': 16781810, 'width': 6398647, 'height': 1169616, 'text': '小児はりは、赤ちゃんや子ども向けの優しい鍼治療です。鍼を刺さず、肌の上を軽くなでる施術で、子どもの身体に負担をかけません。夜泣き、かんむし、アレルギー症状、食欲不振などの小児特有の症状を和らげる効果があります。免疫力を高め、健康的な成長を促すため、親御さんからも高い支持を得ています。子どもの健康維持を目的に定期的に受けることも可能です。'}
-テキストとして処理: 小児はりは、赤ちゃんや子ども向けの優しい鍼治療です。鍼を刺さず、肌の上を軽くなでる施術で、子どもの身体に負担をかけません。夜泣き、かんむし、アレルギー症状、食欲不振などの小児特有の症状を和らげる効果があります。免疫力を高め、健康的な成長を促すため、親御さんからも高い支持を得ています。子どもの健康維持を目的に定期的に受けることも可能です。
-シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1948171, 'top': 15992821, 'width': 6502736, 'height': 506177, 'text': ''}
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3405171, 'top': 18037409, 'width': 10838179, 'height': 391818, 'text': '小児鍼'}
-テキストとして処理: 小児鍼
-シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 3360260, 'top': 18563892, 'width': 11503314, 'height': 0, 'text': ''}
-シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 4772349, 'top': 21134963, 'width': 479465, 'height': 0, 'text': ''}
-未対応のシェイプタイプ: LINE (9)
-シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 5235607, 'top': 21134963, 'width': 11040056, 'height': 0, 'text': ''}
-未対応のシェイプタイプ: LINE (9)
-シェイプ情報: {'shape_type': 'PICTURE (13)', 'has_text_frame': False, 'left': 9248197, 'top': 12139052, 'width': 2213839, 'height': 2213839, 'text': ''}
-シェイプ情報: {'shape_type': 'PICTURE (13)', 'has_text_frame': False, 'left': 9214644, 'top': 16174244, 'width': 2247392, 'height': 2247392, 'text': ''}
-シェイプ情報: {'shape_type': 'PICTURE (13)', 'has_text_frame': False, 'left': 7470045, 'top': 508600, 'width': 5403058, 'height': 3695692, 'text': ''}
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 14067531, 'top': 1757569, 'width': 4248472, 'height': 1800200, 'text': '優しい刺激だが、丁寧な問診とツボの把握で効果が期待できる\n\nという内容を踏襲し、修正しました。'}
-ページ外として除外: x_in=-334068, width=4248472
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': -6290493, 'top': 11727508, 'width': 5112568, 'height': 1160979, 'text': '通常のH3見出し使用してください。'}
-ページ外として除外: x_in=-1177925, width=5112568
-シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': -1177925, 'top': 12307998, 'width': 901379, 'height': 226429, 'text': ''}
-ページ外として除外: x_in=-276546, width=901379
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': -31011, 'top': 278483, 'width': 1408019, 'height': 1042525, 'text': 'レイアウト1\u3000逆'}
-テキストとして処理: レイアウト1　逆
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': -31731, 'top': 4884005, 'width': 1408019, 'height': 1042525, 'text': 'レイアウト1\u3000逆'}
-テキストとして処理: レイアウト1　逆
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 0, 'top': 9867052, 'width': 1226301, 'height': 580490, 'text': 'u-h2'}
-テキストとして処理: u-h2
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 15088, 'top': 10991233, 'width': 1663255, 'height': 580490, 'text': 'ボックス'}
-テキストとして処理: ボックス
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 264552, 'top': 12274249, 'width': 1663255, 'height': 580490, 'text': 'l-imgR'}
-テキストとして処理: l-imgR
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 264551, 'top': 11603800, 'width': 1663255, 'height': 580490, 'text': 'u-h3'}
-テキストとして処理: u-h3
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1621, 'top': 15235327, 'width': 1663255, 'height': 580490, 'text': 'ボックス'}
-テキストとして処理: ボックス
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 251085, 'top': 16518343, 'width': 1663255, 'height': 580490, 'text': 'l-imgR'}
-テキストとして処理: l-imgR
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 251084, 'top': 15847894, 'width': 1663255, 'height': 580490, 'text': 'u-h3'}
-テキストとして処理: u-h3
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1485876, 'top': 638523, 'width': 10794086, 'height': 3782841, 'text': ''}
-テキストフレームはあるが空文字列
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1948171, 'top': 2146262, 'width': 6398647, 'height': 1195455, 'text': '美容鍼は、顔や首にある経絡やツボに鍼を打ち、血行を促進し、肌のターンオーバーを活性化させる施術です。シワやたるみ、くすみ、ほうれい線など、年齢肌の悩みを改善し、肌本来の美しさを引き出します。自然治癒力を引き上げ、内側からの美しさをサポートするため、エイジングケアや美肌効果を求める方に最適です。'}
-テキストとして処理: 美容鍼は、顔や首にある経絡やツボに鍼を打ち、血行を促進し、肌のターンオーバーを活性化させる施術です。シワやたるみ、くすみ、ほうれい線など、年齢肌の悩みを改善し、肌本来の美しさを引き出します。自然治癒力を引き上げ、内側からの美しさをサポートするため、エイジングケアや美肌効果を求める方に最適です。
-シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1948171, 'top': 1357273, 'width': 6502736, 'height': 506177, 'text': ''}
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3405171, 'top': 3401861, 'width': 10838179, 'height': 391818, 'text': '美容鍼'}
-テキストとして処理: 美容鍼
-シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 3360260, 'top': 3928344, 'width': 11503314, 'height': 0, 'text': ''}
-シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 4772349, 'top': 6499415, 'width': 479465, 'height': 0, 'text': ''}
-未対応のシェイプタイプ: LINE (9)
-シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 5235607, 'top': 6499415, 'width': 11040056, 'height': 0, 'text': ''}
-未対応のシェイプタイプ: LINE (9)
-シェイプ情報: {'shape_type': 'PICTURE (13)', 'has_text_frame': False, 'left': 9307640, 'top': 1392380, 'width': 2086583, 'height': 2086583, 'text': ''}
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 0, 'top': 5626006, 'width': 13733463, 'height': 6498214, 'text': ''}
-テキストフレームはあるが空文字列
-シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1531497, 'top': 7443700, 'width': 10543077, 'height': 2411167, 'text': ''}
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 3062995, 'top': 9234351, 'width': 2506998, 'height': 1734809, 'text': '写真'}
-画像プレースホルダーとして処理: 写真
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 5733932, 'top': 9234351, 'width': 2506998, 'height': 1734809, 'text': '写真'}
-画像プレースホルダーとして処理: 写真
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 8404869, 'top': 9234351, 'width': 2506998, 'height': 1734809, 'text': '写真'}
-画像プレースホルダーとして処理: 写真
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 11075806, 'top': 9234351, 'width': 2506998, 'height': 1734809, 'text': '写真'}
-画像プレースホルダーとして処理: 写真
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3062994, 'top': 10962543, 'width': 2506997, 'height': 360099, 'text': '先頭固定表示のテスト'}
-テキストとして処理: 先頭固定表示のテスト
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 3062994, 'top': 11348300, 'width': 1590817, 'height': 297218, 'text': 'カテゴリー / カテゴリー'}
-テキストとして処理: カテゴリー / カテゴリー
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 5757200, 'top': 10962543, 'width': 2506997, 'height': 360099, 'text': 'タイトルタイトルタイトル'}
-テキストとして処理: タイトルタイトルタイトル
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 5757200, 'top': 11348300, 'width': 1590817, 'height': 297218, 'text': 'カテゴリー / カテゴリー'}
-テキストとして処理: カテゴリー / カテゴリー
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 8451404, 'top': 10962543, 'width': 2506997, 'height': 360099, 'text': 'タイトルタイトルタイトル'}
-テキストとして処理: タイトルタイトルタイトル
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 8451404, 'top': 11348300, 'width': 1590817, 'height': 297218, 'text': 'カテゴリー / カテゴリー'}
-テキストとして処理: カテゴリー / カテゴリー
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 11099074, 'top': 10962543, 'width': 2506997, 'height': 360099, 'text': 'タイトルタイトルタイトル'}
-テキストとして処理: タイトルタイトルタイトル
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 11099074, 'top': 11348300, 'width': 1590817, 'height': 297218, 'text': 'カテゴリー / カテゴリー'}
-テキストとして処理: カテゴリー / カテゴリー
-シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1545293, 'top': 6227196, 'width': 10721320, 'height': 704817, 'text': ''}
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3002294, 'top': 7331450, 'width': 10794982, 'height': 487313, 'text': '症例紹介'}
-テキストとして処理: 症例紹介
-シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 3011688, 'top': 8036267, 'width': 396252, 'height': 0, 'text': ''}
-未対応のシェイプタイプ: LINE (9)
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1545293, 'top': 10562903, 'width': 2892949, 'height': 572235, 'text': '全ての症例紹介を見る'}
-テキストとして処理: 全ての症例紹介を見る
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': -3967, 'top': 12095906, 'width': 13733464, 'height': 540000, 'text': 'フッター'}
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1476948, 'top': 9697141, 'width': 10794086, 'height': 433132, 'text': '健康保険による補助（療養費取り扱い）での治療を希望される患者様へ'}
+テキストとして処理: 健康保険による補助（療養費取り扱い）での治療を希望される患者様へ
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 2113062, 'top': 11340348, 'width': 8525199, 'height': 919675, 'text': '医師による「鍼灸療養費取り扱いの同意書」が得られる場合\n毎月、 有効な健康保険証を提示いただける場合\n受領委任払いの書類へ遅滞なく署名・認印をいただける場合'}
+テキストとして処理: 医師による「鍼灸療養費取り扱いの同意書」が得られる場合
+毎月、 有効な健康保険証を提示いただける場合
+受領委任払いの書類へ遅滞なく署名・認印をいただける場合
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 2114203, 'top': 10516647, 'width': 10263226, 'height': 643894, 'text': '療養費の取り扱いは以下の条件を満たす場合に適応となります。\n医科との併用等は制限がありますので、 詳しくは 受診時にお尋ねください。 また保険者によっては賞還払いとなります。'}
+テキストとして処理: 療養費の取り扱いは以下の条件を満たす場合に適応となります。
+医科との併用等は制限がありますので、 詳しくは 受診時にお尋ねください。 また保険者によっては賞還払いとなります。
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 2114203, 'top': 12477527, 'width': 9649072, 'height': 643894, 'text': '療養費補助額は厚生労働省通知により1,870円(2術・電気治療）となっております。\n 療養費補助額にもご加入 の健康保険に定められた自己負担割合による負担金が発生します(2024年6月現在）。'}
+テキストとして処理: 療養費補助額は厚生労働省通知により1,870円(2術・電気治療）となっております。
+ 療養費補助額にもご加入 の健康保険に定められた自己負担割合による負担金が発生します(2024年6月現在）。
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': -793, 'top': 14702836, 'width': 13733464, 'height': 540000, 'text': 'フッター'}
 テキストとして処理: フッター
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': -8679465, 'top': 8037317, 'width': 7744723, 'height': 3176928, 'text': '症例紹介\u3000新着4件表示'}
-ページ外として除外: x_in=-934742, width=7744723
-シェイプ情報: {'shape_type': 'PICTURE (13)', 'has_text_frame': False, 'left': -8498831, 'top': 8719263, 'width': 7395442, 'height': 2214761, 'text': ''}
-ページ外として除外: x_in=-1103389, width=7395442
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 14717770, 'top': 10295406, 'width': 2442202, 'height': 638618, 'text': '症例紹介ページへ'}
-ページ外として除外: x_in=-984307, width=2442202
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 25971, 'top': 639862, 'width': 1663255, 'height': 580490, 'text': 'ボックス'}
-テキストとして処理: ボックス
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 275435, 'top': 1922878, 'width': 1663255, 'height': 580490, 'text': 'l-imgR'}
-テキストとして処理: l-imgR
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 275434, 'top': 1252429, 'width': 1663255, 'height': 580490, 'text': 'u-h3'}
-テキストとして処理: u-h3
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 95969, 'top': 6134019, 'width': 1226301, 'height': 580490, 'text': 'u-h2'}
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 115371, 'top': 3788111, 'width': 1997691, 'height': 580490, 'text': 'テーブル'}
+テキストとして処理: テーブル
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 115371, 'top': 5750385, 'width': 1997691, 'height': 580490, 'text': 'テーブル'}
+テキストとして処理: テーブル
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 115371, 'top': 2331925, 'width': 1226301, 'height': 580490, 'text': 'u-h2'}
 テキストとして処理: u-h2
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 115370, 'top': 9070648, 'width': 1226301, 'height': 580490, 'text': 'ボックス'}
+テキストとして処理: ボックス
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 450226, 'top': 11264839, 'width': 1504596, 'height': 580490, 'text': '数字リスト'}
+テキストとして処理: 数字リスト
