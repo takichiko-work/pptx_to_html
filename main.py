@@ -13,10 +13,10 @@ def main():
     # === 設定ここから ===
     pptx_path = find_pptx_file("input")
     template_path = "template/template.html"
-    output_filename = "price"  # 拡張子なし
-    page_title = "施術料金"  # ページタイトルを設定
-    start_slide = 27
-    end_slide = 27
+    output_filename = "dayservice-aigi"  # 拡張子なし
+    page_title = "デイサービスあいぎ"  # ページタイトルを設定
+    start_slide = 24
+    end_slide = 26
     # === 設定ここまで ===
 
     if not pptx_path:
@@ -25,7 +25,11 @@ def main():
 
     # HTML断片を取得（パーツ名は自動判定に任せる）
     html_contents = generate_html_from_pptx(
-        pptx_path, start_slide, end_slide, page_title, output_filename=output_filename
+        pptx_path,
+        start_slide,
+        end_slide,
+        page_title,
+        output_filename=output_filename,
     )
 
     # テンプレート読み込み

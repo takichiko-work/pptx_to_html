@@ -1,47 +1,233 @@
 === シェイプ情報デバッグ ===
 
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 26895, 'top': 2870771, 'width': 13733463, 'height': 4621012, 'text': ''}
+テキストフレームはあるが空文字列
 シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1, 'top': -9439, 'width': 13733464, 'height': 608274, 'text': 'ヘッダー'}
 テキストとして処理: ヘッダー
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': -1587, 'top': 608940, 'width': 13735050, 'height': 800282, 'text': '施術料金'}
-テキストとして処理: 施術料金
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': -1587, 'top': 608940, 'width': 13735050, 'height': 800282, 'text': 'デイサービスあいぎ'}
+テキストとして処理: デイサービスあいぎ
 シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 450225, 'top': 1430381, 'width': 9368463, 'height': 343427, 'text': 'HOME\u3000＞\u3000ページタイトル'}
 テキストとして処理: HOME　＞　ページタイトル
-シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1545293, 'top': 2366715, 'width': 10721320, 'height': 704817, 'text': ''}
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3002294, 'top': 3470969, 'width': 10794982, 'height': 487313, 'text': '通常治療料金'}
-テキストとして処理: 通常治療料金
-シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 3011688, 'top': 4175786, 'width': 396252, 'height': 0, 'text': ''}
-未対応のシェイプタイプ: LINE (9)
-シェイプ情報: {'shape_type': 'TABLE (19)', 'has_text_frame': False, 'left': 1484219, 'top': 4094907, 'width': 10810057, 'height': 1486629, 'text': ''}
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1428818, 'top': 3364965, 'width': 10263226, 'height': 339195, 'text': '当院の治療料金は治療内容により以下の通りです。'}
-テキストとして処理: 当院の治療料金は治療内容により以下の通りです。
-シェイプ情報: {'shape_type': 'TABLE (19)', 'has_text_frame': False, 'left': 1484219, 'top': 5913547, 'width': 10810057, 'height': 1486629, 'text': ''}
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1428818, 'top': 7464525, 'width': 10263226, 'height': 919675, 'text': '※通常冶療料金は、 中学生以下5割引、 高校生・専門学校生・大学生の方は在学中に限り3割引となります。\n （大学院生・在職学生は除きます）。 ただし、 小児はり、 美容鍼、 初検料の割弓lはありません。）\n※特殊錬治療、 パイオネックス（貼付する鍼）等は別途料金がかかります。'}
-テキストとして処理: ※通常冶療料金は、 中学生以下5割引、 高校生・専門学校生・大学生の方は在学中に限り3割引となります。
- （大学院生・在職学生は除きます）。 ただし、 小児はり、 美容鍼、 初検料の割弓lはありません。）
-※特殊錬治療、 パイオネックス（貼付する鍼）等は別途料金がかかります。
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1485876, 'top': 9222198, 'width': 10794086, 'height': 4536504, 'text': ''}
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 2736327, 'top': 3879529, 'width': 8294069, 'height': 2806494, 'text': ''}
 テキストフレームはあるが空文字列
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1476948, 'top': 9697141, 'width': 10794086, 'height': 433132, 'text': '健康保険による補助（療養費取り扱い）での治療を希望される患者様へ'}
-テキストとして処理: 健康保険による補助（療養費取り扱い）での治療を希望される患者様へ
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 2113062, 'top': 11340348, 'width': 8525199, 'height': 919675, 'text': '医師による「鍼灸療養費取り扱いの同意書」が得られる場合\n毎月、 有効な健康保険証を提示いただける場合\n受領委任払いの書類へ遅滞なく署名・認印をいただける場合'}
-テキストとして処理: 医師による「鍼灸療養費取り扱いの同意書」が得られる場合
-毎月、 有効な健康保険証を提示いただける場合
-受領委任払いの書類へ遅滞なく署名・認印をいただける場合
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 2114203, 'top': 10516647, 'width': 10263226, 'height': 643894, 'text': '療養費の取り扱いは以下の条件を満たす場合に適応となります。\n医科との併用等は制限がありますので、 詳しくは 受診時にお尋ねください。 また保険者によっては賞還払いとなります。'}
-テキストとして処理: 療養費の取り扱いは以下の条件を満たす場合に適応となります。
-医科との併用等は制限がありますので、 詳しくは 受診時にお尋ねください。 また保険者によっては賞還払いとなります。
-シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 2114203, 'top': 12477527, 'width': 9649072, 'height': 643894, 'text': '療養費補助額は厚生労働省通知により1,870円(2術・電気治療）となっております。\n 療養費補助額にもご加入 の健康保険に定められた自己負担割合による負担金が発生します(2024年6月現在）。'}
-テキストとして処理: 療養費補助額は厚生労働省通知により1,870円(2術・電気治療）となっております。
- 療養費補助額にもご加入 の健康保険に定められた自己負担割合による負担金が発生します(2024年6月現在）。
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': -793, 'top': 14702836, 'width': 13733464, 'height': 540000, 'text': 'フッター'}
-テキストとして処理: フッター
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 115371, 'top': 3788111, 'width': 1997691, 'height': 580490, 'text': 'テーブル'}
-テキストとして処理: テーブル
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 115371, 'top': 5750385, 'width': 1997691, 'height': 580490, 'text': 'テーブル'}
-テキストとして処理: テーブル
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 115371, 'top': 2331925, 'width': 1226301, 'height': 580490, 'text': 'u-h2'}
+シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 4031256, 'top': 4773833, 'width': 5678812, 'height': 0, 'text': ''}
+未対応のシェイプタイプ: LINE (9)
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 4043956, 'top': 4234824, 'width': 5678812, 'height': 437043, 'text': '通所介護事業所\u3000デイサービスあいぎ'}
+テキストとして処理: 通所介護事業所　デイサービスあいぎ
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 5513202, 'top': 4956679, 'width': 2740318, 'height': 525337, 'text': '📞0568-63-3930'}
+テキストとして処理: 📞0568-63-3930
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 4006260, 'top': 5698232, 'width': 5774732, 'height': 326243, 'text': 'デイサービスあいぎは、全国でも少ない鍼灸院を母体にした通所介護事業所です。'}
+テキストとして処理: デイサービスあいぎは、全国でも少ない鍼灸院を母体にした通所介護事業所です。
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1466849, 'top': 2129103, 'width': 2663577, 'height': 344710, 'text': 'ケアマネージャーの方はこちら'}
+テキストとして処理: ケアマネージャーの方はこちら
+シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 4557640, 'top': 2164140, 'width': 0, 'height': 333681, 'text': ''}
+ページ外として除外: x_in=0, width=0
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 4107961, 'top': 2190838, 'width': 231238, 'height': 233549, 'text': '^'}
+テキストとして処理: ^
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1545293, 'top': 8321215, 'width': 10721320, 'height': 704817, 'text': ''}
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3002294, 'top': 9425469, 'width': 10794982, 'height': 553998, 'text': '当サービスの特長'}
+テキストとして処理: 当サービスの特長
+シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 3011688, 'top': 10130286, 'width': 396252, 'height': 0, 'text': ''}
+未対応のシェイプタイプ: LINE (9)
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 7563056, 'top': 9423400, 'width': 4665172, 'height': 3204816, 'text': '2階の全景写真を撮影する\n\n個人の顔がわらかなければ撮影する'}
+画像プレースホルダーとして処理: 2階の全景写真を撮影する
+
+個人の顔がわらかなければ撮影する
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1484979, 'top': 9466473, 'width': 5718037, 'height': 2269660, 'text': '機能訓練（リハビリ）に注力しながらも、「活動・参加」の要素をふんだんに取り入れて、楽しみながら自然に身体機能の改善を図っているデイサービスです。\n\nご利用者様とスタッフが２：１となるように十分なスタッフを配置し、短時間でも充実したサービスを提供できるように努めております。\n\n平成29年度からは「犬山市介護予防・日常生活支援総合事業」として健脚デイあいぎも開催しております。'}
+テキストとして処理: 機能訓練（リハビリ）に注力しながらも、「活動・参加」の要素をふんだんに取り入れて、楽しみながら自然に身体機能の改善を図っているデイサービスです。
+
+ご利用者様とスタッフが２：１となるように十分なスタッフを配置し、短時間でも充実したサービスを提供できるように努めております。
+
+平成29年度からは「犬山市介護予防・日常生活支援総合事業」として健脚デイあいぎも開催しております。
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1485876, 'top': 13176403, 'width': 10794086, 'height': 3447896, 'text': ''}
+テキストフレームはあるが空文字列
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1476948, 'top': 13651346, 'width': 10794086, 'height': 492443, 'text': 'こんな方におすすめです'}
+テキストとして処理: こんな方におすすめです
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 2834283, 'top': 14543429, 'width': 8525199, 'height': 1471237, 'text': '寝たきりにだけはなりたくないが身体を動かせていない\nデイサービスにいってもお茶・食事・レクだけではつまらない\n大人数のところへ入っていくのは気がひける\n祝祭日にも安定して利用したい\nマシントレーニングとは異なる、人と人とのぬくもりを感じる運動を楽しみたい'}
+テキストとして処理: 寝たきりにだけはなりたくないが身体を動かせていない
+デイサービスにいってもお茶・食事・レクだけではつまらない
+大人数のところへ入っていくのは気がひける
+祝祭日にも安定して利用したい
+マシントレーニングとは異なる、人と人とのぬくもりを感じる運動を楽しみたい
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 14427571, 'top': 1982149, 'width': 5770308, 'height': 638618, 'text': 'ページ内H2見出し「ケアマネージャー様へ」へ'}
+ページ外として除外: x_in=-694108, width=5770308
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 284916, 'top': 3324435, 'width': 1663255, 'height': 986537, 'text': 'お問い合わせボックス'}
+テキストとして処理: お問い合わせボックス
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 46619, 'top': 1837711, 'width': 1663255, 'height': 986537, 'text': 'アンカーリンク'}
+テキストとして処理: アンカーリンク
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 114163, 'top': 8346488, 'width': 1226301, 'height': 580490, 'text': 'u-h2'}
 テキストとして処理: u-h2
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 115370, 'top': 9070648, 'width': 1226301, 'height': 580490, 'text': 'ボックス'}
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 114163, 'top': 9658574, 'width': 1226301, 'height': 580490, 'text': 'l-imgR'}
+テキストとして処理: l-imgR
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 114163, 'top': 13317077, 'width': 1226301, 'height': 580490, 'text': 'ボックス'}
 テキストとして処理: ボックス
-シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 450226, 'top': 11264839, 'width': 1504596, 'height': 580490, 'text': '数字リスト'}
-テキストとして処理: 数字リスト
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 114162, 'top': 14543429, 'width': 1799641, 'height': 580490, 'text': 'ドットリスト'}
+テキストとして処理: ドットリスト
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1545293, 'top': 472442, 'width': 10721320, 'height': 704817, 'text': ''}
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3002294, 'top': 1576696, 'width': 10794982, 'height': 487313, 'text': '機能訓練について'}
+テキストとして処理: 機能訓練について
+シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 3011688, 'top': 2281513, 'width': 396252, 'height': 0, 'text': ''}
+未対応のシェイプタイプ: LINE (9)
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 7563056, 'top': 1574627, 'width': 4665172, 'height': 3204816, 'text': '写真'}
+画像プレースホルダーとして処理: 写真
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1484979, 'top': 1617700, 'width': 5718037, 'height': 3401700, 'text': 'デイサービスあいぎでは「鍼灸師・マッサージ師・理学療法士・柔道整復師・薬剤師・介護予防運動指導員」と多職種の有資格者が、連携をとりながら充実した機能訓練の提供を行っております。デイサービスあいぎの運動や脳リハビリテーションは以下の予防・改善に役立ちます。\n\n転倒予防\n寝たきり予防\n閉じこもりの予防と改善\n関節拘縮（こうしゅく）の予防と改善\n筋力低下の予防と改善\n心と身体のリラクゼーションをはかり、メリハリのある生活\n音読、書字、手指訓練による認知症予防と改善'}
+テキストとして処理: デイサービスあいぎでは「鍼灸師・マッサージ師・理学療法士・柔道整復師・薬剤師・介護予防運動指導員」と多職種の有資格者が、連携をとりながら充実した機能訓練の提供を行っております。デイサービスあいぎの運動や脳リハビリテーションは以下の予防・改善に役立ちます。
+
+転倒予防
+寝たきり予防
+閉じこもりの予防と改善
+関節拘縮（こうしゅく）の予防と改善
+筋力低下の予防と改善
+心と身体のリラクゼーションをはかり、メリハリのある生活
+音読、書字、手指訓練による認知症予防と改善
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1545293, 'top': 5677345, 'width': 10721320, 'height': 704817, 'text': ''}
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3002294, 'top': 6781599, 'width': 10794982, 'height': 487313, 'text': 'サービス提供時間'}
+テキストとして処理: サービス提供時間
+シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 3011688, 'top': 7486416, 'width': 396252, 'height': 0, 'text': ''}
+未対応のシェイプタイプ: LINE (9)
+シェイプ情報: {'shape_type': 'TABLE (19)', 'has_text_frame': False, 'left': 1484219, 'top': 6831211, 'width': 10810057, 'height': 991086, 'text': ''}
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1545293, 'top': 8430705, 'width': 10721320, 'height': 704817, 'text': ''}
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3002294, 'top': 9534959, 'width': 10794982, 'height': 487313, 'text': 'サービスの詳細について'}
+テキストとして処理: サービスの詳細について
+シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 3011688, 'top': 10239776, 'width': 396252, 'height': 0, 'text': ''}
+未対応のシェイプタイプ: LINE (9)
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1449641, 'top': 9634108, 'width': 10673674, 'height': 365455, 'text': ''}
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 2899282, 'top': 19895297, 'width': 1816690, 'height': 343099, 'text': 'サービス提供地域'}
+テキストとして処理: サービス提供地域
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 5103247, 'top': 19872941, 'width': 8469709, 'height': 339195, 'text': '犬山市内在住の方'}
+テキストとして処理: 犬山市内在住の方
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1449641, 'top': 10143083, 'width': 10673674, 'height': 890757, 'text': ''}
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 2899282, 'top': 20955359, 'width': 1816690, 'height': 315076, 'text': '利用料金'}
+テキストとして処理: 利用料金
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 5103247, 'top': 20893014, 'width': 8469709, 'height': 890757, 'text': '要介護度や利用時間、介護保険負担割合によって異なります。\n詳細は担当のケアマネージャー様もしくはデイサービスあいぎへお問い合わせください。\n（参考：要介護1の方で5－6時間のご利用、1割負担の場合は約820円／回です）'}
+テキストとして処理: 要介護度や利用時間、介護保険負担割合によって異なります。
+詳細は担当のケアマネージャー様もしくはデイサービスあいぎへお問い合わせください。
+（参考：要介護1の方で5－6時間のご利用、1割負担の場合は約820円／回です）
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1449641, 'top': 11239910, 'width': 10673674, 'height': 919675, 'text': ''}
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 2899282, 'top': 22562198, 'width': 1816690, 'height': 315076, 'text': '実費負担料金（非課税）'}
+テキストとして処理: 実費負担料金（非課税）
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 5103247, 'top': 22516287, 'width': 8469709, 'height': 919675, 'text': '昼食代 580円、おやつ代 140円、日用品費 80円（以上1日につき）\n教養娯楽費 350円（1月ごと）\n紙パンツ 165円/枚、尿パッド 55円/枚（使用時のみ）'}
+テキストとして処理: 昼食代 580円、おやつ代 140円、日用品費 80円（以上1日につき）
+教養娯楽費 350円（1月ごと）
+紙パンツ 165円/枚、尿パッド 55円/枚（使用時のみ）
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1449641, 'top': 12303819, 'width': 10673674, 'height': 360987, 'text': ''}
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 2899282, 'top': 23626107, 'width': 1816690, 'height': 315076, 'text': '入浴'}
+テキストとして処理: 入浴
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 5103247, 'top': 23580196, 'width': 8469709, 'height': 339195, 'text': '本事業所はリハビリ中心プログラムのため入浴サービスはありません。'}
+テキストとして処理: 本事業所はリハビリ中心プログラムのため入浴サービスはありません。
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 0, 'top': 13391003, 'width': 13733463, 'height': 6032059, 'text': ''}
+テキストフレームはあるが空文字列
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1456988, 'top': 13874432, 'width': 10794086, 'height': 4910107, 'text': ''}
+テキストフレームはあるが空文字列
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1811798, 'top': 14167949, 'width': 10066605, 'height': 267766, 'text': '介護職員等特定処遇改善加算の内容'}
+テキストとして処理: 介護職員等特定処遇改善加算の内容
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1799098, 'top': 14567725, 'width': 9884119, 'height': 3677482, 'text': '【算定している処遇改善加算】\n(新)処遇改善加算I (法改正による一本化) 9.2% 総計 9.2%\n\n【デイサービスあいぎの処遇改善計画】\n(パート・介護職) 食事介助手当 500 円/勤務\n(正社員・介護職) 食事介助手当 11000 円/月\n(正社員・介護職) 資格手当 5000 円/月\n※医療・介護それぞれの国家資格保持の有無で計算\n\n(全社員) 送迎手当 1000 円/月\n(全社員) 処遇改善支援加算 2000 円~5000 円/月(標準勤務量による)\nその他、個人の職能・職責に応じた手当が設けられています。\n営業成績により、加算見込み額が上振れした場合はその相当額を一時金として、社内評定に基づいて分配します。'}
+テキストとして処理: 【算定している処遇改善加算】
+(新)処遇改善加算I (法改正による一本化) 9.2% 総計 9.2%
+
+【デイサービスあいぎの処遇改善計画】
+(パート・介護職) 食事介助手当 500 円/勤務
+(正社員・介護職) 食事介助手当 11000 円/月
+(正社員・介護職) 資格手当 5000 円/月
+※医療・介護それぞれの国家資格保持の有無で計算
+
+(全社員) 送迎手当 1000 円/月
+(全社員) 処遇改善支援加算 2000 円~5000 円/月(標準勤務量による)
+その他、個人の職能・職責に応じた手当が設けられています。
+営業成績により、加算見込み額が上振れした場合はその相当額を一時金として、社内評定に基づいて分配します。
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': -2134269, 'top': 17638204, 'width': 1852850, 'height': 295466, 'text': 'Kaizen.pdf\u3000を別タブ表示'}
+ページ外として除外: x_in=-281419, width=1852850
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 148302, 'top': 596769, 'width': 1226301, 'height': 580490, 'text': 'u-h2'}
+テキストとして処理: u-h2
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 148302, 'top': 1908855, 'width': 1226301, 'height': 580490, 'text': 'l-imgR'}
+テキストとして処理: l-imgR
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 148302, 'top': 5675608, 'width': 1226301, 'height': 580490, 'text': 'u-h2'}
+テキストとして処理: u-h2
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 148302, 'top': 6568241, 'width': 1997691, 'height': 580490, 'text': 'テーブル'}
+テキストとして処理: テーブル
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 148301, 'top': 8430705, 'width': 1226301, 'height': 580490, 'text': 'u-h2'}
+テキストとして処理: u-h2
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 148301, 'top': 9514021, 'width': 1331280, 'height': 400110, 'text': '定義'}
+テキストとして処理: 定義
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 115344, 'top': 13628660, 'width': 1226301, 'height': 580490, 'text': 'ボックス'}
+テキストとして処理: ボックス
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 0, 'top': 18506, 'width': 13733463, 'height': 3644353, 'text': ''}
+テキストフレームはあるが空文字列
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1456988, 'top': 811757, 'width': 10794086, 'height': 1848861, 'text': ''}
+テキストフレームはあるが空文字列
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1811798, 'top': 1105274, 'width': 10066605, 'height': 267766, 'text': 'デイサービスあいぎが取り組む職場環境改善事例はこちら'}
+テキストとして処理: デイサービスあいぎが取り組む職場環境改善事例はこちら
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1751398, 'top': 1587304, 'width': 2667062, 'height': 572235, 'text': '職場環境改善事例を見る'}
+テキストとして処理: 職場環境改善事例を見る
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': -793, 'top': 18063288, 'width': 13733464, 'height': 540000, 'text': 'フッター'}
+テキストとして処理: フッター
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1545293, 'top': 4648906, 'width': 10721320, 'height': 704817, 'text': ''}
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 3002294, 'top': 5753160, 'width': 10794982, 'height': 487313, 'text': 'ケアマネージャー様へ'}
+テキストとして処理: ケアマネージャー様へ
+シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 3011688, 'top': 6457977, 'width': 396252, 'height': 0, 'text': ''}
+未対応のシェイプタイプ: LINE (9)
+シェイプ情報: {'shape_type': 'TABLE (19)', 'has_text_frame': False, 'left': 1412447, 'top': 6903219, 'width': 10881830, 'height': 3240359, 'text': ''}
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1479095, 'top': 5918762, 'width': 10794982, 'height': 594211, 'text': ''}
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 2936095, 'top': 7895622, 'width': 10838178, 'height': 376706, 'text': 'デイサービスあいぎ\u3000空き状況'}
+テキストとして処理: デイサービスあいぎ　空き状況
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 2891184, 'top': 8489833, 'width': 11503314, 'height': 0, 'text': ''}
+シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 4303273, 'top': 11060904, 'width': 479465, 'height': 0, 'text': ''}
+未対応のシェイプタイプ: LINE (9)
+シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 4766531, 'top': 11060904, 'width': 11040056, 'height': 0, 'text': ''}
+未対応のシェイプタイプ: LINE (9)
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1428818, 'top': 10305321, 'width': 10263226, 'height': 1195455, 'text': '日曜日は基準緩和型サービス「健脚デイあいぎ」となり、事業対象・要支援の方のみご利用いただけます。\n午後半日利用は短時間となるため、原則要介護の方はご利用頂けません。\n現在、お住まいの地域によっては送迎サービスが困難な場合がありますのでご相談下さい。\n▲ 定員に空きがございますが、送迎対応が困難なため、自己通所となります。'}
+テキストとして処理: 日曜日は基準緩和型サービス「健脚デイあいぎ」となり、事業対象・要支援の方のみご利用いただけます。
+午後半日利用は短時間となるため、原則要介護の方はご利用頂けません。
+現在、お住まいの地域によっては送迎サービスが困難な場合がありますのでご相談下さい。
+▲ 定員に空きがございますが、送迎対応が困難なため、自己通所となります。
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 1479095, 'top': 12033812, 'width': 10794982, 'height': 594211, 'text': ''}
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 2936095, 'top': 14010672, 'width': 10838178, 'height': 372090, 'text': 'デイサービスあいぎ・健脚デイあいぎ休業日について'}
+テキストとして処理: デイサービスあいぎ・健脚デイあいぎ休業日について
+シェイプ情報: {'shape_type': 'GROUP (6)', 'has_text_frame': False, 'left': 2891184, 'top': 14604883, 'width': 11503314, 'height': 0, 'text': ''}
+シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 4303273, 'top': 17175954, 'width': 479465, 'height': 0, 'text': ''}
+未対応のシェイプタイプ: LINE (9)
+シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': 4766531, 'top': 17175954, 'width': 11040056, 'height': 0, 'text': ''}
+未対応のシェイプタイプ: LINE (9)
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1441761, 'top': 13635105, 'width': 3408746, 'height': 149085, 'text': ''}
+テキストフレームはあるが空文字列
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1463907, 'top': 13416076, 'width': 3962664, 'height': 368114, 'text': '5月3日～5日、8月10日～12日、12月29日～1月3日'}
+テキストとして処理: 5月3日～5日、8月10日～12日、12月29日～1月3日
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1484016, 'top': 12940341, 'width': 7398940, 'height': 350865, 'text': 'デイサービスあいぎ（月曜～土曜営業、地域密着型通所介護）の届出上のお休みは以下の通りです。'}
+テキストとして処理: デイサービスあいぎ（月曜～土曜営業、地域密着型通所介護）の届出上のお休みは以下の通りです。
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1441761, 'top': 14945745, 'width': 4128826, 'height': 140251, 'text': ''}
+テキストフレームはあるが空文字列
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1463907, 'top': 14726716, 'width': 6770976, 'height': 368114, 'text': '祝日と4月30日～5月5日、8月12日～15日、12月28日～1月4日'}
+テキストとして処理: 祝日と4月30日～5月5日、8月12日～15日、12月28日～1月4日
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1484016, 'top': 14250981, 'width': 7398940, 'height': 323999, 'text': '健脚デイあいぎ（日曜午前のみ営業、犬山市基準緩和型通所介護）の届出上のお休みは以下の通りです。'}
+テキストとして処理: 健脚デイあいぎ（日曜午前のみ営業、犬山市基準緩和型通所介護）の届出上のお休みは以下の通りです。
+シェイプ情報: {'shape_type': 'TEXT_BOX (17)', 'has_text_frame': True, 'left': 1484015, 'top': 15520981, 'width': 10790061, 'height': 582532, 'text': '従来、ゴールデンウイーク中も通常営業をしておりましたが、近年の犬山市域観光渋滞の顕在化により、安定的な運営が難しくなっております。\nそのために、2019年度より上記の通り休業日を増やしておりますので、ご理解の程宜しくお願い致します。'}
+テキストとして処理: 従来、ゴールデンウイーク中も通常営業をしておりましたが、近年の犬山市域観光渋滞の顕在化により、安定的な運営が難しくなっております。
+そのために、2019年度より上記の通り休業日を増やしておりますので、ご理解の程宜しくお願い致します。
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 1545293, 'top': 16540117, 'width': 6113526, 'height': 572235, 'text': '2024年6月以降のサービス体制（加算）のご案内はこちら（PDF）'}
+テキストとして処理: 2024年6月以降のサービス体制（加算）のご案内はこちら（PDF）
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 14561343, 'top': 16480357, 'width': 4144524, 'height': 1211273, 'text': '③2024年6月以降体制一覧.pdf を別タブ表示'}
+ページ外として除外: x_in=-827880, width=4144524
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 14561343, 'top': 1590142, 'width': 3212076, 'height': 723187, 'text': 'kaizen.pdfを別タブ表示'}
+ページ外として除外: x_in=-827880, width=3212076
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': -4595538, 'top': 12359851, 'width': 3456384, 'height': 1160979, 'text': 'マーカー'}
+ページ外として除外: x_in=-1139154, width=3456384
+シェイプ情報: {'shape_type': 'LINE (9)', 'has_text_frame': False, 'left': -1139154, 'top': 13166771, 'width': 594388, 'height': 408689, 'text': ''}
+ページ外として除外: x_in=-544766, width=594388
+シェイプ情報: {'shape_type': 'PICTURE (13)', 'has_text_frame': False, 'left': -3105870, 'top': 12676608, 'width': 1676400, 'height': 581025, 'text': ''}
+ページ外として除外: x_in=-1429470, width=1676400
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 164711, 'top': 524784, 'width': 1226301, 'height': 580490, 'text': 'ボックス'}
+テキストとして処理: ボックス
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 164711, 'top': 4500565, 'width': 1226301, 'height': 580490, 'text': 'u-h2'}
+テキストとして処理: u-h2
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 164710, 'top': 5741746, 'width': 1226301, 'height': 580490, 'text': 'u-h3'}
+テキストとして処理: u-h3
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 148302, 'top': 6568241, 'width': 1997691, 'height': 580490, 'text': 'テーブル'}
+テキストとして処理: テーブル
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 164183, 'top': 10086729, 'width': 1799641, 'height': 580490, 'text': 'ドットリスト'}
+テキストとして処理: ドットリスト
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 148302, 'top': 11896634, 'width': 1226301, 'height': 580490, 'text': 'u-h3'}
+テキストとして処理: u-h3
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 409754, 'top': 1429736, 'width': 1226301, 'height': 580490, 'text': 'ボタン'}
+テキストとして処理: ボタン
+シェイプ情報: {'shape_type': 'AUTO_SHAPE (1)', 'has_text_frame': True, 'left': 346294, 'top': 16480557, 'width': 1226301, 'height': 580490, 'text': 'ボタン'}
+テキストとして処理: ボタン

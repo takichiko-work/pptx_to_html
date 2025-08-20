@@ -13,8 +13,8 @@ from config import api_key, model
 client = OpenAI(api_key=api_key)
 
 
+# 画像のプレースホルダーかどうかを判定
 def is_image_placeholder(text):
-    """画像のプレースホルダーかどうかを判定"""
     # 画像プレースホルダーとして扱うべきキーワード
     image_keywords = [
         "写真",
@@ -48,6 +48,7 @@ def is_image_placeholder(text):
     return False
 
 
+# シェイプからテキストを抽出（ページ外のテキストは除外）
 def extract_text_from_shape(
     shape,
     slide_width=None,
@@ -56,7 +57,7 @@ def extract_text_from_shape(
     parent_left=0,
     parent_top=0,
 ):
-    """シェイプからテキストを抽出（ページ外のテキストは除外）"""
+
     if elements is None:
         elements = []
 
@@ -80,10 +81,9 @@ def extract_text_from_shape(
         f.write(f"シェイプ情報: {shape_info}\n")
 
     # x軸方向の判定のみ
+    # シェイプの半分以上がページ内にあればページ内として判断
     if None not in (left, width, slide_width):
-        # シェイプのx軸でページ内に存在する長さを計算
         x_in = min(left + width, slide_width) - max(left, 0)
-        # シェイプの半分以上がページ内にあればページ内として判断
         if x_in <= 0 or x_in < width / 2:
             with open("debug/shape_info.txt", "a", encoding="utf-8") as f:
                 f.write(f"ページ外として除外: x_in={x_in}, width={width}\n")
@@ -155,6 +155,7 @@ def should_exclude_texts(texts, page_title):
     return exclude_indices
 
 
+# スライドからテキスト要素を抽出して座標順にソート
 def extract_slide_texts(slide, slide_width, slide_height, page_title):
     elements = []
     for shape in slide.shapes:
@@ -271,7 +272,12 @@ def find_parts_name_in_texts(texts):
 
 
 def generate_html_from_pptx(
-    pptx_path, start_slide, end_slide, page_title, parts_name=None, output_filename=None
+    pptx_path,
+    start_slide,
+    end_slide,
+    page_title,
+    parts_name=None,
+    output_filename=None,
 ):
     start_slide = int(start_slide)
     end_slide = int(end_slide)
