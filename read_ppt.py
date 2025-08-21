@@ -66,6 +66,25 @@ def extract_text_from_shape(
     width = getattr(shape, "width", None)
     height = getattr(shape, "height", None)
 
+    # AUTO_SHAPE/TEXT_BOXの場合のみマージン情報を考慮してテキスト領域の左上座標を計算
+    adjusted_left = left
+    adjusted_top = top
+
+    if shape.has_text_frame:
+        try:
+            text_frame = shape.text_frame
+            # マージン情報を取得
+            margin_left = getattr(text_frame, "margin_left", 0) or 0
+            margin_top = getattr(text_frame, "margin_top", 0) or 0
+
+            # テキスト領域の左上座標を計算
+            adjusted_left = left + margin_left
+            adjusted_top = top + margin_top
+
+        except:
+            # マージン情報が取得できない場合は元の座標を使用
+            pass
+
     # シェイプ情報をデバッグファイルに出力
     shape_info = {
         "shape_type": str(shape.shape_type),
@@ -74,6 +93,8 @@ def extract_text_from_shape(
         "top": top,
         "width": width,
         "height": height,
+        "adjusted_left": adjusted_left,
+        "adjusted_top": adjusted_top,
         "text": getattr(shape, "text", "").strip() if hasattr(shape, "text") else "",
     }
 
@@ -91,7 +112,7 @@ def extract_text_from_shape(
 
     # 画像の場合
     if shape.shape_type == MSO_SHAPE_TYPE.PICTURE:
-        elements.append({"text": "画像", "top": top, "left": left})
+        elements.append({"text": "画像", "top": adjusted_top, "left": adjusted_left})
         return elements
 
     # テキストフレームを持つ場合
@@ -100,11 +121,15 @@ def extract_text_from_shape(
         if text:
             # 画像のプレースホルダーの場合は「画像」として扱う
             if is_image_placeholder(text):
-                elements.append({"text": "画像", "top": top, "left": left})
+                elements.append(
+                    {"text": "画像", "top": adjusted_top, "left": adjusted_left}
+                )
                 with open("debug/shape_info.txt", "a", encoding="utf-8") as f:
                     f.write(f"画像プレースホルダーとして処理: {text}\n")
             else:
-                elements.append({"text": text, "top": top, "left": left})
+                elements.append(
+                    {"text": text, "top": adjusted_top, "left": adjusted_left}
+                )
                 with open("debug/shape_info.txt", "a", encoding="utf-8") as f:
                     f.write(f"テキストとして処理: {text}\n")
         else:
@@ -124,7 +149,11 @@ def extract_text_from_shape(
             for cell in row.cells:
                 if cell.text.strip():
                     elements.append(
-                        {"text": cell.text.strip(), "top": top, "left": left}
+                        {
+                            "text": cell.text.strip(),
+                            "top": adjusted_top,
+                            "left": adjusted_left,
+                        }
                     )
 
     # その他のシェイプタイプ

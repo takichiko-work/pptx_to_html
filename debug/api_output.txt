@@ -1,59 +1,31 @@
 === APIからの出力値 ===
 
-<ul class="list-anchor-link">
-  <li><a href="#link01">ケアマネージャーの方はこちら</a></li>
-</ul>
 <div class="tel-layout">
-  <h2 class="l-ttl">通所介護事業所　デイサービスあいぎ</h2>
-  <p class="tac"><a href="tel:0568633930" class="l-tel"><img src="images/share/icon_tel.svg" alt="TEL" width="25" height="31">0568-63-3930</a></p>
-  <p>デイサービスあいぎは、全国でも少ない鍼灸院を母体にした通所介護事業所です。</p>
+  <h2 class="l-ttl">居宅介護支援事業所　ケアプラン・メモリー</h2>
+  <p class="tac"><a href="tel:0568686877" class="l-tel"><img src="images/share/icon_tel.svg" alt="TEL" width="25" height="31">0568-68-6877</a></p>
+  <p>住所：〒484-0086　愛知県犬山市松本町1丁目45番地　ハーモニービル402<br>対応地域：犬山市全域</p>
 </div>
 <section class="tall">
   <div class="container">
-    <h2 class="u-h2">当サービスの特長</h2>
+    <h2 class="u-h2">居宅介護支援事業所とは</h2>
     <div class="l-imgR">
-      <figure class="l-img"><img src="images/under/dayservice-aigi_img01.jpg" width="800" height="590" alt=""></figure>
+      <figure class="l-img"><img src="images/under/careplan-memory_img01.jpg" width="800" height="590" alt=""></figure>
       <div class="l-desc">
-        <p>機能訓練（リハビリ）に注力しながらも、「活動・参加」の要素をふんだんに取り入れて、楽しみながら自然に身体機能の改善を図っているデイサービスです。</p>
-        <p>ご利用者様とスタッフが２：１となるように十分なスタッフを配置し、短時間でも充実したサービスを提供できるように努めております。</p>
-        <p>平成29年度からは「犬山市介護予防・日常生活支援総合事業」として健脚デイあいぎも開催しております。</p>
+        <p>介護保険法にもとづき、要介護認定を受けた人が居宅で自立した生活を送るために、居宅サービス計画書（ケアプラン）の作成やサービス調整を行う事業所を居宅介護支援事業所といいます。</p>
+        <p>そのケアプランを作成する人が介護支援専門員です。一般にケアマネジャー（略してケアマネ）とも呼ばれています。</p>
       </div>
     </div>
-    <div class="box-style01">
-      <h3 class="box-ttl">こんな方におすすめです</h3>
-      <ul class="list-disc">
-        <li>寝たきりにだけはなりたくないが身体を動かせていない</li>
-        <li>デイサービスにいってもお茶・食事・レクだけではつまらない</li>
-        <li>大人数のところへ入っていくのは気がひける</li>
-        <li>祝祭日にも安定して利用したい</li>
-        <li>マシントレーニングとは異なる、人と人とのぬくもりを感じる運動を楽しみたい</li>
-      </ul>
-    </div>
+    <section class="short">
+      <div class="box-style01">
+        <h3 class="box-ttl">ケアプラン・メモリーの理念</h3>
+        <p>私たちは、記憶に残るケアマネジメントを誠実に提供することで地域の皆さまに必要とされ愛されることを大切にします。</p>
+      </div>
+    </section>
   </div>
 </section>
 <section class="tall">
   <div class="container">
-    <h2 class="u-h2">機能訓練について</h2>
-    <div class="l-imgR">
-      <figure class="l-img"><img src="images/under/dayservice-aigi_img02.jpg" width="800" height="590" alt=""></figure>
-      <div class="l-desc">
-        <p>デイサービスあいぎでは「鍼灸師・マッサージ師・理学療法士・柔道整復師・薬剤師・介護予防運動指導員」と多職種の有資格者が、連携をとりながら充実した機能訓練の提供を行っております。デイサービスあいぎの運動や脳リハビリテーションは以下の予防・改善に役立ちます。</p>
-        <ul class="list-disc">
-          <li>転倒予防</li>
-          <li>寝たきり予防</li>
-          <li>閉じこもりの予防と改善</li>
-          <li>関節拘縮（こうしゅく）の予防と改善</li>
-          <li>筋力低下の予防と改善</li>
-          <li>心と身体のリラクゼーションをはかり、メリハリのある生活</li>
-          <li>音読、書字、手指訓練による認知症予防と改善</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
-<section class="tall">
-  <div class="container">
-    <h2 class="u-h2">サービス提供時間</h2>
+    <h2 class="u-h2">事務所概要</h2>
     <table class="table-style01">
       <colgroup>
         <col style="width: 30%">
@@ -61,118 +33,73 @@
       </colgroup>
       <tbody>
         <tr>
-          <th scope="row">月曜-土曜</th>
-          <td>9：30～15：00まで（通所介護デイサービスあいぎ）※祝日でも営業</td>
+          <th scope="row">営業日</th>
+          <td>月曜日～金曜日（祝祭日・12月30日～1月3日を除く）</td>
         </tr>
         <tr>
-          <th scope="row">日曜</th>
-          <td>9：45～11：30（通所介護基準緩和サービス健脚デイあいぎ）※祝日は休業</td>
+          <th scope="row">営業時間</th>
+          <td>午前9時から午後4時30分</td>
+        </tr>
+        <tr>
+          <th scope="row">電話番号</th>
+          <td>0568-68-6877</td>
+        </tr>
+        <tr>
+          <th scope="row">FAX番号</th>
+          <td>0568-61-1155</td>
+        </tr>
+        <tr>
+          <th scope="row">介護保険事業所番号</th>
+          <td>2373401195</td>
         </tr>
       </tbody>
     </table>
-  </div>
-</section>
-<section class="tall">
-  <div class="container">
-    <h2 class="u-h2">サービスの詳細について</h2>
-    <div class="box-style01">
-      <h3 class="box-ttl">介護職員等特定処遇改善加算の内容</h3>
-      <p>【算定している処遇改善加算】<br>(新)処遇改善加算I (法改正による一本化) 9.2% 総計 9.2%</p>
-      <p>【デイサービスあいぎの処遇改善計画】<br>(パート・介護職) 食事介助手当 500 円/勤務<br>(正社員・介護職) 食事介助手当 11000 円/月<br>(正社員・介護職) 資格手当 5000 円/月<br>※医療・介護それぞれの国家資格保持の有無で計算</p>
-      <p>(全社員) 送迎手当 1000 円/月<br>(全社員) 処遇改善支援加算 2000 円~5000 円/月(標準勤務量による)<br>その他、個人の職能・職責に応じた手当が設けられています。<br>営業成績により、加算見込み額が上振れした場合はその相当額を一時金として、社内評定に基づいて分配します。</p>
-    </div>
-    <dl class="dl-style01">
-      <dt>サービス提供地域</dt>
-      <dd>
-        <p>犬山市内在住の方</p>
-      </dd>
-      <dt>利用料金</dt>
-      <dd>要介護度や利用時間、介護保険負担割合によって異なります。<br>詳細は担当のケアマネージャー様もしくはデイサービスあいぎへお問い合わせください。<br>（参考：要介護1の方で5－6時間のご利用、1割負担の場合は約820円／回です）</dd>
-      <dt>実費負担料金（非課税）</dt>
-      <dd>昼食代 580円、おやつ代 140円、日用品費 80円（以上1日につき）<br>教養娯楽費 350円（1月ごと）<br>紙パンツ 165円/枚、尿パッド 55円/枚（使用時のみ）</dd>
-      <dt>入浴</dt>
-      <dd>本事業所はリハビリ中心プログラムのため入浴サービスはありません。</dd>
-    </dl>
-    <div class="box-style01">
-      <h3 class="box-ttl">デイサービスあいぎが取り組む職場環境改善事例はこちら</h3>
-      <a href="" class="btn-more">職場環境改善事例を見る</a>
-    </div>
-  </div>
-</section>
-<section class="tall">
-  <div class="container">
-    <h2 class="u-h2">デイサービスあいぎ　空き状況</h2>
-    <section class="short" id="link01">
-      <h3 class="u-h3">ケアマネージャー様へ</h3>
-      <table class="table-style01">
-        <colgroup>
-          <col style="width:16%">
-          <col style="width:12%">
-          <col style="width:12%">
-          <col style="width:12%">
-          <col style="width:12%">
-          <col style="width:12%">
-          <col style="width:12%">
-          <col style="width:12%">
-        </colgroup>
-        <tbody>
-          <tr>
-            <th scope="col" class="tac">2024年4月<br>空席状況</th>
-            <th scope="col" class="tac">月</th>
-            <th scope="col" class="tac">火</th>
-            <th scope="col" class="tac">水</th>
-            <th scope="col" class="tac">木</th>
-            <th scope="col" class="tac">金</th>
-            <th scope="col" class="tac">土</th>
-            <th scope="col" class="tac">日</th>
-          </tr>
-          <tr>
-            <th scope="row">1日利用<br>9:30 - 15:00</th>
-            <td>満員</td>
-            <td>満員</td>
-            <td>満員</td>
-            <td>満員</td>
-            <td>満員</td>
-            <td>満員</td>
-            <td>ー</td>
-          </tr>
-          <tr>
-            <th scope="row">午前半日利用<br>9:30 - 12:45</th>
-            <td>満員</td>
-            <td>満員</td>
-            <td>満員</td>
-            <td>1名<br>（昼食無）</td>
-            <td>満員</td>
-            <td>満員</td>
-            <td>満員</td>
-          </tr>
-          <tr>
-            <th scope="row">午後半日利用<br>13:00 – 15:00<br>事業対象・要支援の方のみ</th>
-            <td>満員</td>
-            <td>1名</td>
-            <td>満員</td>
-            <td>満員</td>
-            <td>満員</td>
-            <td>満員</td>
-            <td>ー</td>
-          </tr>
-        </tbody>
-      </table>
-      <ul class="list-disc">
-        <li>日曜日は基準緩和型サービス「健脚デイあいぎ」となり、事業対象・要支援の方のみご利用いただけます。</li>
-        <li>午後半日利用は短時間となるため、原則要介護の方はご利用頂けません。</li>
-        <li>現在、お住まいの地域によっては送迎サービスが困難な場合がありますのでご相談下さい。</li>
-        <li>▲ 定員に空きがございますが、送迎対応が困難なため、自己通所となります。</li>
-      </ul>
-    </section>
     <section class="short">
-      <h3 class="u-h3">デイサービスあいぎ・健脚デイあいぎ休業日について</h3>
-      <p>デイサービスあいぎ（月曜～土曜営業、地域密着型通所介護）の届出上のお休みは以下の通りです。</p>
-      <p>5月3日～5日、8月10日～12日、12月29日～1月3日</p>
-      <p>健脚デイあいぎ（日曜午前のみ営業、犬山市基準緩和型通所介護）の届出上のお休みは以下の通りです。</p>
-      <p>祝日と4月30日～5月5日、8月12日～15日、12月28日～1月4日</p>
-      <p>従来、ゴールデンウイーク中も通常営業をしておりましたが、近年の犬山市域観光渋滞の顕在化により、安定的な運営が難しくなっております。<br>そのために、2019年度より上記の通り休業日を増やしておりますので、ご理解の程宜しくお願い致します。</p>
-      <a href="" class="btn-more">2024年6月以降のサービス体制（加算）のご案内はこちら（PDF）</a>
+      <h3>Googleマップ</h3>
+      <div class="google-map"></div>
     </section>
+  </div>
+</section>
+<section class="tall">
+  <div class="container">
+    <h2 class="u-h2">管理者紹介</h2>
+    <section class="short">
+      <h3 class="u-h3">木納聖子（きのうしょうこ）：介護福祉士・社会福祉士・主任介護支援専門員・修士（医療福祉学）</h3>
+      <p>ケアプラン・メモリーの設立にあたり、私達が一番大切にしたのは「理念の制定」です。</p>
+      <p>“私たちは、記憶に残るケアマネジメントを誠実に提供することで、地域の皆さまに必要とされ、愛されることを大切にします”</p>
+      <p>この理念の下、「真に公正中立なケアマネジメント」「ICT活用によるゆとりある支援」「責任ある継続的なサポート」を柱に活動してまいります。<br>どうぞお気軽にご相談下さい。</p>
+      <section class="x-short">
+        <div class="box-style01">
+          <h4 class="box-ttl">管理者略歴</h4>
+          <p>特別養護老人ホーム介護職員、あじさい看護福祉専門学校専任教員、国際医療福祉大学医療福祉学部医療福祉・マネジメント学科助教、犬山市犬山南地区地域包括支援センター、総合犬山中央病院犬山中央居宅介護支援事業所を経て、株式会社あいち統合医療ケアプラン・メモリー管理者就任。</p>
+        </div>
+      </section>
+    </section>
+  </div>
+</section>
+<section class="tall">
+  <div class="container">
+    <h2 class="u-h2">ご相談は無料です。</h2>
+    <p>まずは、下記連絡先へお電話でお申し込みください。</p>
+    <table class="table-style01">
+      <colgroup>
+        <col style="width: 30%">
+        <col style="width: 70%">
+      </colgroup>
+      <tbody>
+        <tr>
+          <th scope="row">担当者</th>
+          <td>木納聖子（キノウショウコ）</td>
+        </tr>
+        <tr>
+          <th scope="row">TEL</th>
+          <td>0568-68-6877</td>
+        </tr>
+        <tr>
+          <th scope="row">電話受付時間</th>
+          <td>月曜日～金曜日(祝祭日・12/30～1/3を除く)<br>9：00～16：30まで</td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </section>
